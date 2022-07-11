@@ -10,7 +10,7 @@
 
 <p align="center">
 
-Fel Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/anyafelicia" target="_blank">Felicia</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Fel Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/anyafelicia" target="_blank">Felicia</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star.
 
 </p>
 
