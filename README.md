@@ -1,6 +1,6 @@
 # bot fel
 
-<h1 align="center">ꪶFel Botꫂ<br></h1>
+<h1 align="center">ꪶ Bot Fel ꫂ<br></h1>
 
 <p align="center">
 
